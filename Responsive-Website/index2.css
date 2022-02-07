@@ -174,4 +174,22 @@ border-bottom-color: rgb(255, 228, 204);
 
 }
     
-    
+@media(max-width: 1000px){
+    .copyright{
+        margin: 0px;
+    }
+    .navbar a{
+        margin-left: 10px;
+   }
+   .navbar-nav a{
+border-bottom: 3px inset;
+border-width: 1px;
+border-bottom-color: rgb(255, 228, 204);
+
+}
+
+
+
+
+}
+   
